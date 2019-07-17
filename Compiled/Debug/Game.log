@@ -1,0 +1,20 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Vec2.cpp
+  Sprite.cpp
+c:\users\diana\desktop\spaceshooter\source\sprite.cpp(175): warning C4091: '': ignored on left of 'void *' when no variable is declared
+  ResizeEngine.cpp
+  Main.cpp
+  ImageFile.cpp
+  CTimer.cpp
+  CPlayer.cpp
+  CGameApp.cpp
+  Bullet.cpp
+  BackBuffer.cpp
+  RectangleUtil.cpp
+  EnemyGroup.cpp
+c:\users\diana\desktop\spaceshooter\enemygroup.cpp(85): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EnemyBullet.cpp
+  Enemy.cpp
+  Generating Code...
+Enemy.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Game.vcxproj -> C:\Users\diana\Desktop\SpaceShooter\d_Game.exe
